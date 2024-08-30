@@ -1,0 +1,13 @@
+{
+"ChatPrefix": "{purple}[掛機]{default} » ",
+"ChatKickMessage": "{grey}{playerName}{default} 因 {darkred}掛機{default} 被 {lime}踢出{default}。",
+"ChatMoveMessage": "{grey}{playerName}{default} 因 {darkred}掛機{default} 被 {lime}移至{default} 觀戰。",
+"ChatKillMessage": "{grey}{playerName}{default} 因 {darkred}掛機{default} 被 {lime}擊殺{default}。",
+"ChatWarningKickMessage": "你 {darkred}掛機中{default}。移動否則你將在 {lightblue}{timeAmount}{default} 秒內被 {lime}踢出{default}。",
+"ChatWarningMoveMessage": "你 {darkred}掛機中{default}。移動否則你將在 {lightblue}{timeAmount}{default} 秒內被 {lime}移至{default} 觀戰。",
+"ChatWarningKillMessage": "你 {darkred}掛機中{default}。移動否則你將在 {lightblue}{timeAmount}{default} 秒內被 {lime}擊殺{default}。",
+"AntiCampSlayMessage": "{grey}{playerName}{default} 因在 {green}@{zoneName}{default} 持 {lime}{weaponName}{default} 龜點而被 {lime}擊殺{default}。",
+"AntiCampSlapMessage": "{grey}{playerName}{default} 因在 {green}@{zoneName}{default} 持 {lime}{weaponName}{default} 龜點而被 {lime}掌摑{default}，受到 {red}{slapAmount} 點傷害{default}。",
+"AntiCampSlayWarningMessage": "停止在 {green}@{zoneName}{default} 持 {lime}{weaponName}{default} 龜點，否則你將在 {lightblue}{timeAmount}{default} 秒內被 {lime}擊殺{default}。",
+"AntiCampSlapWarningMessage": "停止在 {green}@{zoneName}{default} 持 {lime}{weaponName}{default} 龜點，否則你將在 {lightblue}{timeAmount}{default} 秒內被 {lime}掌摑{default}，受到 {red}{slapAmount} 點傷害{default}。"
+}
